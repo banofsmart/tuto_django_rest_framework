@@ -1,5 +1,10 @@
-env/ tutorial_django_rest_framework/__pycache__/ db.sqlite3
+#venv
 env/
-tutorial_django_rest_framework/__pycache__/
+
+# database & logs
 db.sqlite3
-snippets/__pycache__/
+*.db
+*.sqlite3
+*.log
+
+__pycache__
