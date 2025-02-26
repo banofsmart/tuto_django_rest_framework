@@ -2,3 +2,4 @@ env/ tutorial_django_rest_framework/__pycache__/ db.sqlite3
 env/
 tutorial_django_rest_framework/__pycache__/
 db.sqlite3
+snippets/__pycache__/
